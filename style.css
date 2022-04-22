@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+	padding: 2em;
+  height: 100vh;
+  background-color: turquoise;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	direction: rtl;
+}
+
+p.icons {
+	font-size: 12em;
+}
+
+.sides {
+	display: flex;
+	align-items: center;
+}
